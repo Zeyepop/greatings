@@ -6,3 +6,5 @@ this tuto focus mainly on Git using Github as its remote.
 This repository is built step by step in the tutorial.
 
 Github steps are added, for this test.
+
+ok test new line.
